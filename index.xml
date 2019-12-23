@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>To be a better yu</title>
+    <link>http://veryu.gitee.io/</link>
+    <description>Recent content on To be a better yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Dec 2019 20:43:19 +0800</lastBuildDate>
+    
+	<atom:link href="http://veryu.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>湖中焉得更有此人</title>
+      <link>http://veryu.gitee.io/post/%E6%B9%96%E4%B8%AD%E7%84%89%E5%BE%97%E6%9B%B4%E6%9C%89%E6%AD%A4%E4%BA%BA/</link>
+      <pubDate>Mon, 23 Dec 2019 20:43:19 +0800</pubDate>
+      
+      <guid>http://veryu.gitee.io/post/%E6%B9%96%E4%B8%AD%E7%84%89%E5%BE%97%E6%9B%B4%E6%9C%89%E6%AD%A4%E4%BA%BA/</guid>
+      <description>崇祯五年十二月，余住西湖。大雪三日，湖中人鸟声俱绝。 是日更定矣，余拿一小舟，拥毳衣炉火，独往湖心亭看雪。 雾凇沆砀，天与云与山与水，上下一白。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://veryu.gitee.io/about/</link>
+      <pubDate>Fri, 13 Sep 2019 08:23:14 +0800</pubDate>
+      
+      <guid>http://veryu.gitee.io/about/</guid>
+      <description>愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。 能做事的做事，能发声的发声。有一分热，发一分光。 就令萤火一般，也可以在黑暗里发一点</description>
+    </item>
+    
+  </channel>
+</rss>
